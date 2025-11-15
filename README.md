@@ -23,4 +23,4 @@ Runs the full pipeline automatically
 Displays cleaned and processed data directly in the browser  
 Sends processed results to the Neon database  
 
-https://marketing-campaign-analytics-pipeline-gpbvjf6q57sch56wshy4vd.streamlit.app/
+https://marketing-analysis-pipeline-av89tz2org9oukxvryabqb.streamlit.app/
