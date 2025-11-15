@@ -23,4 +23,6 @@ Runs the full pipeline automatically
 Displays cleaned and processed data directly in the browser  
 Sends processed results to the Neon database  
 
+https://github.com/renatagdev-star/marketing-analysis-pipeline/blob/main/app_preview_.JPG
+
 https://marketing-analysis-pipeline-av89tz2org9oukxvryabqb.streamlit.app/
